@@ -5,8 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   // If deploying to GitHub Pages as a project site, uncomment the lines below:
-  // basePath: '/giki-ride',
-  // assetPrefix: '/giki-ride',
+  basePath: '/gikiride',
+  assetPrefix: '/gikiride',
 };
 
 export default nextConfig;
